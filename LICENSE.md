@@ -1,4 +1,4 @@
-# 
+# instant isolated-margin trading bot Executor | high-frequency + trailing-stop offers the most advanced isolated-margin trading bot, with high-frequency and trailing-stop. Ideal
 
 
 
